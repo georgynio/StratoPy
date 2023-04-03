@@ -39,12 +39,3 @@ ______________________
    :members:
    :undoc-members:
    :show-inheritance:
- 
-__________________________
-``stratopy.merger`` module
-__________________________
-
-.. automodule:: stratopy.merger
-   :members:
-   :undoc-members:
-   :show-inheritance:
